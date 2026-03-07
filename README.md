@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandeepa Priyadarshana</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm passionate about building great software and contributing to open source projects.</h3>
 
-- 🔭 I’m currently working on [TheatreX Project](theatrex.lk)
+- 🔭 I’m currently working on (<a href ="theatrex.lk">TheatreX Project<a/>)
 
 - 🌱 I’m currently Studying **BSc (Hons) Computer Science at University of Westminster**
 
