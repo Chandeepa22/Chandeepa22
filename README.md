@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandeepa Priyadarshana</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm passionate about building great software and contributing to open source projects.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandeepa22" alt="chandeepa22" /></a> </p>
-
 - 🔭 I’m currently working on [TheatreX Project](theatrex.lk)
 
 - 🌱 I’m currently Studying **BSc (Hons) Computer Science at University of Westminster**
