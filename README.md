@@ -4,8 +4,8 @@
 
 **Full Stack Developer · CS Undergraduate @ IIT Sri Lanka**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-chandeepa.me-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://chandeepa.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chandeepa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandeepa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-chandeepa.me-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://chandeepa22.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chandeepa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandeepa-herath-323228193/)
 [![GitHub](https://img.shields.io/badge/GitHub-Chandeepa22-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chandeepa22)
 [![Email](https://img.shields.io/badge/Email-chandeepapriyadarshana@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandeepapriyadarshana@gmail.com)
 
